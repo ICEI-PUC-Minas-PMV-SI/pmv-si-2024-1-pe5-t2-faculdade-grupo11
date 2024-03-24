@@ -1,4 +1,4 @@
-# PROJETO CAMPUS DE UMA FACULDADE NA REGIÃO METROPOLITANA  
+# Projeto Campus de uma Faculdade na Região Metropolitana
 
 `CURSO: Sistemas de Informação`
 
