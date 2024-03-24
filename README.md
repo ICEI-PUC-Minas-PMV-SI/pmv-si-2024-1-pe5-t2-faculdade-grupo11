@@ -6,17 +6,13 @@
 
 `Eixo: 5`
 
-O grupo optou pela escolha do tema: um novo Campus de uma Faculdade na Região Metropolitana de Belo Horizonte. Para o propósito da simulação, estamos projetando uma rede com comunicação entre três campus (uma Matriz e duas Filiais), sendo os mesmos de mesma capacidade e estrutura. 
+Projeto de Novo Campus Universitário em Belo Horizonte: Simulação e Estruturação
 
-A simulação do novo campus irá se compor dos seguintes fatores (simulação baseada no campus existente: PUC Unidade São Gabriel): 
+Nosso projeto visa simular a criação de um novo campus universitário na região metropolitana de Belo Horizonte, composto por uma matriz e duas filiais, todas com capacidade e estrutura semelhantes. Inspirados na PUC Unidade São Gabriel, nosso novo campus abrigará sete prédios que fornecerão infraestrutura para estudantes em seis cursos de graduação tecnológica e especializações.
 
-O campus estará localizado na região nordeste de Belo Horizonte, instalada em uma área de 50 mil m². Os 7 prédios irão abrigar toda a infraestrutura necessária para atender aos quase 2000 estudantes dos 6 cursos de graduação tecnológica, assim como os diversos cursos de especialização ofertados em distintas áreas do conhecimento. 
+O campus contará com uma biblioteca com um amplo acervo, três laboratórios - incluindo os de áudio, vídeo e fotografia - e se destacará na oferta de Engenharia de Software. Além disso, terá um teatro com capacidade para receber eventos institucionais e duas salas multimeios.
 
-A biblioteca local disponibilizará um acervo de 43 mil exemplares. A Unidade irá dispor de 3 laboratórios, entre eles os de áudio, vídeo e fotografia. Também se destacará, na oferta de Engenharia de Software. A Unidade também possuirá um teatro com capacidade para 320 pessoas, com foyer amplo, e duas salas multimeios, com estrutura para atender aos eventos institucionais e acadêmicos. 
-
-O novo campus está previsto para ser inaugurado contando com um quadro de funcionários de aproximadamente 100 colaboradores. 
-
-Para que o novo campus opere de maneira eficiente e atenda as demandas dos cursos de graduação oferecidos, infraestrutura, funcionários e compartilhamento de dados da instituição, o campus será composto por departamentos e setores diferentes, e sua rede será interconectada com a matriz, filial 1 e 2.  
+Com uma equipe inicial de aproximadamente 100 colaboradores, o novo campus será projetado para operar eficientemente, atendendo às demandas dos cursos de graduação e compartilhando dados e recursos com a matriz e as filiais. A estrutura será organizada em diferentes departamentos e setores, interconectados para garantir o pleno funcionamento da instituição.
 
 ## Integrantes
 
