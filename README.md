@@ -6,13 +6,13 @@
 
 `Eixo: 5`
 
-Projeto de Novo Campus Universitário em Belo Horizonte: Simulação e Estruturação
+Projeto Integrado de Novo Campus Universitário em Belo Horizonte: Estruturação e Tecnologia
 
-Nosso projeto visa simular a criação de um novo campus universitário na região metropolitana de Belo Horizonte, composto por uma matriz e duas filiais, todas com capacidade e estrutura semelhantes. Inspirados na PUC Unidade São Gabriel, nosso novo campus abrigará sete prédios que fornecerão infraestrutura para estudantes em seis cursos de graduação tecnológica e especializações.
+Nossa proposta envolve a simulação de um novo campus universitário na região metropolitana de Belo Horizonte, com uma matriz e duas filiais, inspirado na renomada PUC Unidade São Gabriel. Com sete prédios e uma variedade de recursos, incluindo biblioteca, laboratórios e espaços para eventos, o campus será um ambiente propício para o ensino e pesquisa.
 
-O campus contará com uma biblioteca com um amplo acervo, três laboratórios - incluindo os de áudio, vídeo e fotografia - e se destacará na oferta de Engenharia de Software. Além disso, terá um teatro com capacidade para receber eventos institucionais e duas salas multimeios.
+Além da infraestrutura física, o projeto abrange a implementação de uma rede de computadores estruturada, combinando recursos on-premise e cloud computing. A gestão e monitoramento da rede serão realizados por meio de ferramentas especializadas, enquanto a configuração de software seguirá técnicas devops. A segurança da informação será uma prioridade, com a observância de aspectos legais e a implementação de mecanismos como firewalls, seguindo boas práticas.
 
-Com uma equipe inicial de aproximadamente 100 colaboradores, o novo campus será projetado para operar eficientemente, atendendo às demandas dos cursos de graduação e compartilhando dados e recursos com a matriz e as filiais. A estrutura será organizada em diferentes departamentos e setores, interconectados para garantir o pleno funcionamento da instituição.
+A execução do projeto ocorrerá por etapas, fornecendo competências essenciais em planejamento, concepção e configuração de ambientes de rede. Os participantes terão acesso a ferramentas de mercado e adquirirão conhecimentos sobre infraestrutura, desde virtualização de serviços até questões relacionadas à conteinerização de aplicações e serviços.
 
 ## Integrantes
 
