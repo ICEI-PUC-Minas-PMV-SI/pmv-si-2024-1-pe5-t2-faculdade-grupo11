@@ -6,18 +6,18 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O grupo optou pela escolha do tema: um novo Campus de uma Faculdade na Região Metropolitana de Belo Horizonte. Para o propósito da simulação, estamos projetando uma rede com comunicação entre três campus (uma Matriz e duas Filiais), sendo os mesmos de mesma capacidade e estrutura. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Everton de Souza Kenedy 
+* Gabriel Barboza Costa 
+* Luís Gustavo da Silva Andrade 
+* Roberto Santos de Almeida 
+* Sara Caroline Vidal de Souza 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alexandre Teixeira
 
 
