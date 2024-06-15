@@ -1,2 +1,0 @@
-# GrupoOnzeFaculdade
-SI_AppSust_1o2024_Grupo11Faculdade_ProfAlexandreTeixeira
