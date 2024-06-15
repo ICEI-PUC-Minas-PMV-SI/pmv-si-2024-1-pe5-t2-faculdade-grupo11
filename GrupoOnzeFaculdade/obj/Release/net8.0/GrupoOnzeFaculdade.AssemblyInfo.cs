@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrupoOnzeFaculdade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09614348444f8c4d0fa5fd4de9d7a44920c08c71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cddb78bdffeb4d9342d0d9174aa26a19f893687f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrupoOnzeFaculdade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrupoOnzeFaculdade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
